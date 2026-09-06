@@ -15,6 +15,6 @@ export const personalInfo: PersonalInfo = {
   twitterLink: "https://x.com/Sachin1611820",
   facebookLink: "",
   instagramLink: "",
-  aboutMe: "I am a passionate Full Stack Developer with over 1.5 years of experience building high-performance, scalable web applications and distributed systems. Specializing in Next.js, TypeScript, Laravel, and Cloud DevOps, I bridge the gap between elegant user interfaces and robust backend systems.",
-  yearsOfExperience: 1.5,
+  aboutMe: "I am a passionate Full Stack Developer with over 2+ years of experience building high-performance, scalable web applications and distributed systems. Specializing in Next.js, TypeScript, Laravel, and Cloud DevOps, I bridge the gap between elegant user interfaces and robust backend systems.",
+  yearsOfExperience: 2,
 };
